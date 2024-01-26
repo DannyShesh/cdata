@@ -1,0 +1,31 @@
+{
+  "name": "cdata",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "@heroicons/react": "^2.0.18",
+    "@types/bcrypt": "^5.0.1",
+    "bcrypt": "^5.1.1",
+    "knex": "^2.5.1",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "serverless-mysql": "^1.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
